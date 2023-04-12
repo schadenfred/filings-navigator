@@ -1,7 +1,1 @@
 cEUTH46dRedi7yluofNPMw==
-cp mise/keys/base.keyexercise mise/keys/base.key
-cp mise/keys/ci.keyexercise mise/keys/ci.key
-cp mise/keys/development.keyexercise mise/keys/development.key
-cp mise/keys/production.keyexercise mise/keys/production.key
-cp mise/keys/staging.keyexercise mise/keys/staging.key
-cp mise/keys/test.keyexercise mise/keys/test.key
